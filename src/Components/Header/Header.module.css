@@ -1,0 +1,16 @@
+.headerContainer {
+    padding-top: 10px;
+    width: 200px;
+    height: 100%;
+    background: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    
+}
+
+.headerContainer a {
+    text-decoration: none;
+    /* color: white; */
+}

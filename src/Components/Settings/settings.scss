@@ -1,0 +1,17 @@
+@import '../../helperCSS/variables.scss';
+
+
+.container {
+    margin-top: 50px;
+    width: 100%;
+    gap: 5px;
+    
+    .thema {
+        width: 250px;
+        height: 250px;
+        border: 2px solid $border-theme;
+        .btn {
+            padding: 10px;
+        }
+    }
+}
